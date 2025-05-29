@@ -30,20 +30,20 @@ The ultimate goal is to create a more equitable digital art ecosystem where crea
 - **Event Monitoring**: Comprehensive event emission for front-end integration
 
 ## Future Scope
-- **Marketplace Integration**: Direct buying and selling functionality within the platform
-- **Batch Minting**: Create multiple NFTs in a single transaction to reduce gas costs
-- **Collection Management**: Group related NFTs into managed collections
-- **Multi-chain Support**: Expand to additional blockchain networks beyond Ethereum
-- **Lazy Minting**: Allow creators to defer gas costs until the first sale
-- **Fractional Ownership**: Enable partial ownership of high-value NFTs
-- **Auction Mechanisms**: Different sale models including Dutch auctions and timed auctions
-- **Curation Tools**: Features for organizing and presenting digital art collections
-- **Social Features**: Follow creators, like artworks, and share collections
-- **Advanced Metadata**: Support for richer media types and interactive NFTs
-- **Analytics Dashboard**: Performance metrics for creators to track engagement and sales
-- **Mobile Application**: User-friendly mobile interface for minting and collecting
-- **Integration with Physical Art**: Bridge between digital NFTs and physical artwork
-- **DAO Governance**: Community-driven platform development and curation
+- Marketplace Integration – Native platform for listing and purchasing NFTs
+- Batch Minting – Mint multiple NFTs in a single transaction
+- Collection Management – Group and showcase themed artworks
+- Multi-chain Support – Support for Solana, Polygon, and others
+- Lazy Minting – Mint on-demand at point of sale
+- Fractional Ownership – Share high-value NFTs with multiple owners
+- Auction Mechanisms – Timed, Dutch, and English auction models
+- Curation Tools – Collections, featured artists, and curated drops
+- Social Features – Likes, follows, comments, and shares
+- Advanced Metadata – Interactive and multimedia NFT support
+- Analytics Dashboard – Insights on engagement and sales
+- Mobile Application – Full-feature mobile interface for artists and collectors
+- Physical Art Integration – NFTs tied to physical pieces
+- DAO Governance – Community-led decision-making and feature rollouts
 
 ## Contract details
 0x58DEbb03be8E475Fefed09Ed64e1af9670Ed0Cea
